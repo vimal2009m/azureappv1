@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'rectus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D566E0B5660740E8AEA5962A3B1B2716 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB24AEF39E3C4CB5A2DACA403B76AA17 }}
           package: .
